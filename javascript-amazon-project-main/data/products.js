@@ -1,6 +1,4 @@
 export function getProduct(productId){
-  const productId = cartItem.productId;
-
   let matchingProduct;
   products.forEach((product) => {
       if(product.id === productId){
