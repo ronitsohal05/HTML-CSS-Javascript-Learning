@@ -15,11 +15,11 @@ export function addToCart(productId){
     });
 
     if(matchingItem){
-        matchingItem.quantitiy+=1;
+        matchingItem.quantity+=1;
     }else{
         cart.push({
             productId: productId,
-            quantitiy: 1
+            quantity: 1
         });
     }
 
