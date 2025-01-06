@@ -3,7 +3,7 @@ This repository just has practice code, exercises, and projects from which I was
 Learning Status:
 HTML: Done
 CSS: Done
-Javascript: In Progress
+Javascript: Done
 
 Tutorials:
 HTML/CSS: https://www.youtube.com/watch?v=a_iQb1lnAEQ&t=85s&ab_channel=freeCodeCamp.org
